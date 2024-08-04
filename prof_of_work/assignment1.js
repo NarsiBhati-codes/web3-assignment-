@@ -15,5 +15,5 @@ function findHashWithPrefix(prefix) {
 }
 
 const result = findHashWithPrefix('00000');
-console.log(`input : ${result.hash}`);
+console.log(`input : ${result.input}`);
 console.log(`hash : ${result.hash}`);
